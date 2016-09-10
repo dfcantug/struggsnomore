@@ -1,0 +1,23 @@
+{
+  "name": "struggsnomore",
+  "version": "0.0.1",
+  "description": "A web app to help people create and execute a gameplan to make their 'struggs' be no more",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfcantug/struggsnomore.git"
+  },
+  "author": "David Cantu, Mikael Mantis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfcantug/struggsnomore/issues"
+  },
+  "homepage": "https://github.com/dfcantug/struggsnomore#readme"
+}
