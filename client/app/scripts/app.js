@@ -8,16 +8,15 @@
 *
 * Main module of the application.
 */
-angular
-.module('clientApp', [
+angular.module('clientApp', [
       'ngAnimate',
       'ngCookies',
       'ngResource',
       'ngRoute',
       'ngSanitize',
-      'ngTouch'
-])
-.config(function ($routeProvider) {
+      'ngTouch',
+      'firebase'
+]).config(function ($routeProvider) {
       $routeProvider
       .when('/', {
             templateUrl: 'views/main.html',

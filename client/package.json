@@ -4,10 +4,11 @@
   "description": "A web app to help people create and execute a gameplan to make their 'struggs' be no more",
   "private": true,
   "dependencies": {
+    "angular": "^1.5.8",
     "bootstrap": "^3.3.7",
-    "angular":"^1.5.8",
-    "jquery":"^3.1.0",
-    "d3":"^4.2.2"
+    "d3": "^4.2.2",
+    "firebase": "^3.3.2",
+    "jquery": "^3.1.0"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
