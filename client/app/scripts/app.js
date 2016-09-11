@@ -1,5 +1,5 @@
 'use strict';
-
+/*global angular*/
 /**
 * @ngdoc overview
 * @name clientApp
